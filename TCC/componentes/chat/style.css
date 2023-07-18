@@ -1,0 +1,35 @@
+body
+{
+    background-color: #4F94EA;
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+form
+{
+    background-color: #4F94EA; 
+    text-align: center;
+}
+
+.msg
+{
+    background-color: #134B5C; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: large;
+    border-radius: 7px;
+    color: black;
+    font-weight: bold;
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+}
+
+.enviar
+{
+ background-color: #134B5C;
+ border-radius: 100%;
+ margin: 10px;
+}

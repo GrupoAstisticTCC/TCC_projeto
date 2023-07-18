@@ -1,0 +1,72 @@
+body
+{
+    text-align: center;
+    background-color: #134B5C;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.testo
+{
+    width: 500px;
+    height: 30px;
+    color: black;
+    background-color: white;
+    border-radius: 7px;
+    font-size: large;
+    font-weight: bold;
+    border-color: white;
+    margin: 5px;
+}
+
+.btn
+{
+    margin: 5px;
+    width: 350px;
+    height: 35px;
+    color: black;
+    background-color: green;
+    border-radius: 15px;
+    font-size: large;
+    font-weight: bold;
+    border-style: hidden;
+}
+
+.btn:hover
+{
+    background-color: rgb(4, 155, 4);
+}
+
+.link
+{
+    margin-top: 10%;
+    margin-left: 85%;
+    text-align: left;
+}
+
+a
+{
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: rgb(13, 240, 228);
+    text-decoration: underline;
+}
+
+.check
+{
+    width: 25px;
+    height: 25px;
+}
+
+.teste
+{
+    margin-right: 24%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: large;
+}

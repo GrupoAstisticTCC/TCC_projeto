@@ -1,0 +1,21 @@
+.geral
+{
+    background-color: #4F94EA;
+    text-align: center;
+    font-size: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home-fundo
+{
+    background-color: #4480C9;
+    margin: 20px;
+    border-radius: 7px;
+}
+
+img
+{
+    border-radius: 10px;
+    margin: 20px;
+}
+

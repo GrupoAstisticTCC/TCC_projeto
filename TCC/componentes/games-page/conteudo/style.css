@@ -1,0 +1,16 @@
+.conteudo
+{
+    background-color: #4F94EA;
+    font-size: larger;
+    text-align: center;
+}
+
+.caixa
+{
+    font-weight: bolder;
+    background-color: #4480C9;
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+}
