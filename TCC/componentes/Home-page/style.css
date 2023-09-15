@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Tektur:wght@600&display=swap');
+
+/*CSS aplicado ao cabeçaçho*/
+.lupa
+{
+    background-color: #0B96A8;
+    border: none;
+}
+
+.testo
+{
+    text-decoration: none;
+    font-size: larger;
+    padding: 25px;
+    color: black;
+    font-family: "lexend", Arial, Helvetica, sans-serif;
+}
+
+.fundo
+{
+    background-color: #4F94EA;
+    color: black;
+}
+
+.user
+{
+    color: white;
+    width: 40px;
+    height: 40px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+}
+
+.flex
+{
+    display: flex;
+    flex-direction: row;
+}
+
+/* CSS aplicado ao carrousel*/
+.carrousel-images
+    {
+      padding-top: 3%;
+      margin-left: 32%;
+      padding-bottom: 3%;
+      
+    }
+
+.teste
+{
+border-radius: 5px;
+}
+/*CSS aplicado a main*/
+
+.home-fundo
+{
+    margin: 20px;
+    border-radius: 8px;
+    border-color: #3178ce;
+    background-color: #2f73c7;
+    border-style: solid;
+    font-family: "lexend", Arial, Helvetica, sans-serif;
+}
+
+.imagens
+{
+    border-radius: 3%;
+    margin: 20px;
+}
+
+main
+{
+    text-align: center;
+}
+
+h4
+{
+    padding-left: 12px;
+}
+
+footer
+{
+    text-align: left;
+}
+
+.paragrafo
+{
+ text-align: justify;
+    
+}
+
+.Qcode
+{
+    margin-top: 6%;
+}
+
+
+
+
+

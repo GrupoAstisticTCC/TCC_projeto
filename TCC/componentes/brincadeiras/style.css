@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Tektur:wght@600&display=swap');
+
+body
+{
+    font-family: 'Lexend',Arial, Helvetica, sans-serif;
+    font-size: normal;
+    color: black;
+    text-align: justify;
+    background-color: white
+}
+
+p
+{
+    margin-bottom: 2%;
+}
+
+.audio
+{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

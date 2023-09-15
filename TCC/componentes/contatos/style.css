@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Tektur:wght@600&display=swap');
+
+body{
+    background-color: #EEEDF0;
+}
+
+.box
+{
+    border-radius: 7px;
+    background-color: #FAF8FE;
+    text-align: left;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-top: 1%;
+    font-family: "Lexend", Arial, Helvetica, sans-serif;
+    margin-left: 1%;
+    box-shadow: 2px 2px 5px rgb(181, 179, 179);
+}
+
+.content
+{
+    margin-left: 2%;
+    margin-right: 10%;
+}
+
+.pin
+{
+    width: 20px;
+    height: 20px;
+    margin-right: 1%; 
+    color: green;
+}
+
+.redes
+{
+    text-decoration: none;
+    color: black;
+}
+
+.redes:hover
+{
+    text-decoration: underline;
+}
+
+.local
+{
+    text-decoration: none;
+    color: grey;
+}
+
+.local:hover
+{
+    text-decoration: underline;
+}
+
+.picture
+{
+    width: 190px;
+    height: 200px;
+}
+
+.stars
+{
+    width: 25px;
+    height: 25px;
+    margin-top: 3px;
+    margin-left: 2%;
+    margin-right: 1%;
+}
+
+.media
+{
+    background-color: #e3e0e7;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 7px;
+    margin-right: 24%;
+}
+
+.banner
+{
+    width: 20px;
+    height: 20px;
+}
+
+.btn-p
+{
+    border-radius: 9px;
+    border: none;
+    background-color: #00F0FF;
+    padding-bottom: 8%;
+    padding-top: 8%;
+    padding-left: 90%;
+    padding-right: 90%;
+}
+
+
+

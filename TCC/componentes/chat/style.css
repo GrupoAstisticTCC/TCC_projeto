@@ -1,35 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Tektur:wght@600&display=swap');
+
 body
 {
-    background-color: #4F94EA;
+    background-color: #122C34;
+    font-family: "lexend",Arial, Helvetica, sans-serif;
+}
+
+.outside
+{
+    background-color: #D9D9D9;
+    border-radius: 8px;
+    margin-top: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.inside
+{
+    background-color: #CDC0C0;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    width: 94%; 
+    text-align: justify;
+    margin-right: 1%;
+}
+
+button
+{
+    background-color: #CDC0C0;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.icon
+{
+    width: 30px;
+    height: 30px;
+}
+
+label
+{
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 2%;
+}
+
+.information
+{
     text-align: center;
-    font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
-
-form
+.user
 {
-    background-color: #4F94EA; 
-    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 11%;
+    padding-right: 11%;
 }
 
-.msg
+.date
 {
-    background-color: #134B5C; 
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: left;
-    font-size: large;
-    border-radius: 7px;
-    color: black;
-    font-weight: bold;
-    width: 500px;
-    height: 100px;
-    margin: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 11%;
+    padding-right: 16%;
 }
 
-.enviar
+.massege
 {
- background-color: #134B5C;
- border-radius: 100%;
- margin: 10px;
+    text-align: justify;
+    padding: 1% 1% 1% 1%;
+    
+}
+
+.margin
+{
+    margin-top: 15%;
 }

@@ -1,16 +1,51 @@
-.conteudo
+body
 {
-    background-color: #4F94EA;
-    font-size: larger;
+    background-color:#4F94EA ;
     text-align: center;
 }
 
-.caixa
+.menu
 {
-    font-weight: bolder;
     background-color: #4480C9;
-    margin-top: 0px;
-    margin-left: 80px;
-    margin-right: 80px;
-    margin-bottom: 40px;
+    text-align: center;
+    height: auto;
+    width: 60%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border-radius: 10px;
 }
+
+a
+{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+
+.margem
+{
+    margin: 50px;
+}
+
+.categoria
+{
+    background-color: #4480C9;
+    text-align: center;
+    height: auto;
+    width: 30%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.conteudo
+{
+    background-color: #4480C9;
+    text-align: center;
+    height: auto;
+    width: auto;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+
